@@ -55,8 +55,6 @@ Relational integrity and structured workflow logic are maintained across modules
 
 ## 📸 Screenshots
 
-*(Add images inside a folder named `screenshots` and link them below)*
-
 ### Homepage
 ![Homepage](screenshots/homepage.png)
 
