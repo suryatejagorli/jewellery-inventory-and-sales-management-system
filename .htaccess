@@ -1,0 +1,19 @@
+# ===============================
+# SBJ Jewellery - Safe .htaccess
+# ===============================
+
+<IfModule mod_headers.c>
+    Header set Cache-Control "no-store, no-cache, must-revalidate, max-age=0"
+    Header set Pragma "no-cache"
+</IfModule>
+
+# Disable directory listing
+Options -Indexes
+
+# Set default index file
+DirectoryIndex index.php
+
+# Basic security protection
+<FilesMatch "\.(htaccess|htpasswd|ini|log|conf)$">
+    Require all denied
+</FilesMatch>
