@@ -63,8 +63,17 @@ Relational integrity and structured workflow logic are maintained across modules
 ### Admin Dashboard
 ![Admin Dashboard](screenshots/admin-dashboard.png)
 
-### Checkout & Payment Flow
-![Checkout](screenshots/checkout.png)
+### EMI Plan
+![EMI Plan](screenshots/emi-plan.png)
+
+### QR Payment
+![QR Payment](screenshots/qr-payment.png)
+
+### Receipt View
+![Receipt View](screenshots/receipt-view.png)
+
+### Receipt Print
+![Receipt pdf](screenshots/receipt-pdf.png)
 
 ---
 
