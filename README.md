@@ -73,7 +73,7 @@ Relational integrity and structured workflow logic are maintained across modules
 ![Receipt View](screenshots/receipt-view.png)
 
 ### Receipt Print
-![Receipt pdf](screenshots/receipt-pdf.png)
+![Receipt pdf](screenshots/receipt-print.png)
 
 ---
 
