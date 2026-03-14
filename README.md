@@ -38,7 +38,6 @@ The project demonstrates practical backend logic, relational database implementa
 - Delivered Items  
 
 Relational integrity and structured workflow logic are maintained across modules.
-
 ---
 
 ## 🛠 Tech Stack
