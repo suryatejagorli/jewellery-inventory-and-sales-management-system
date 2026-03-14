@@ -2,6 +2,11 @@
 
 A structured web-based application designed to manage jewellery inventory, customer orders, payment workflow, and HUID validation with an integrated admin dashboard.
 
+## 🌐 Live Demo
+
+You can view the deployed project here:
+[Project Live Link](http://sbjewels.page.gd/)
+
 ---
 
 ## 📌 Overview
@@ -38,7 +43,38 @@ The project demonstrates practical backend logic, relational database implementa
 - Delivered Items  
 
 Relational integrity and structured workflow logic are maintained across modules.
+
+## 🧠 Backend Concepts Implemented
+
+• Relational database design with structured table relationships  
+• Order lifecycle state transitions (Placed → Packed → Shipped → Delivered)  
+• Inventory consistency validation for stock tracking  
+• HUID uniqueness enforcement for jewellery products  
+• Controlled payment workflow for QR, EMI, and COD options  
+• Admin-level order monitoring and revenue tracking
+
 ---
+
+## 🔄 System Workflow
+
+The system follows a structured order processing workflow:
+
+Customer Browsing  
+↓  
+Product Selection  
+↓  
+Cart & Checkout  
+↓  
+Order Creation  
+↓  
+Payment Processing (QR / EMI / COD)  
+↓  
+Admin Order Management  
+↓  
+Order Status Updates  
+(Placed → Packed → Shipped → Delivered)  
+↓  
+Delivery Confirmation & Receipt Generation
 
 ## 🛠 Tech Stack
 
@@ -72,11 +108,37 @@ Relational integrity and structured workflow logic are maintained across modules
 ### Receipt Print
 ![Receipt pdf](screenshots/receipt-print.png)
 
+## 📁 Project Structure
+
+/jewellery-inventory-system
+│
+├── admin/            # Admin dashboard and management modules
+├── customer/         # Customer browsing, cart, and order pages
+├── assets/           # CSS, JS, images and UI resources
+├── database/         # SQL schema and database structure
+├── screenshots/      # Project screenshots used in README
+└── README.md         # Project documentation
+
 ---
 
 ## 🎯 Project Objective
 
 To design and implement a structured inventory and sales management system that reflects practical backend workflow, database normalization, and real-world order processing logic.
+
+## 👨‍💻 Author
+
+**Surya Teja Gorli**  
+B.Tech Computer Science and Engineering (AI-ML)  
+SRM Institute of Science and Technology  
+
+GitHub: https://github.com/suryatejagorli  
+LinkedIn: https://linkedin.com/in/suryatejagorli
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License.
 
 ---
 
