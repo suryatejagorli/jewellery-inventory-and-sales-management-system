@@ -110,14 +110,16 @@ Delivery Confirmation & Receipt Generation
 
 ## 📁 Project Structure
 
-/jewellery-inventory-system
+```
+jewellery-inventory-system
 │
-├── admin/            # Admin dashboard and management modules
-├── customer/         # Customer browsing, cart, and order pages
-├── assets/           # CSS, JS, images and UI resources
-├── database/         # SQL schema and database structure
-├── screenshots/      # Project screenshots used in README
-└── README.md         # Project documentation
+├── admin/        # Admin dashboard and management modules
+├── customer/     # Customer browsing, cart, and order pages
+├── assets/       # CSS, JavaScript, images, UI resources
+├── database/     # SQL schema and database structure
+├── screenshots/  # Project screenshots used in README
+└── README.md     # Project documentation
+```
 
 ---
 
