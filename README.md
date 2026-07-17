@@ -138,9 +138,11 @@ LinkedIn: https://linkedin.com/in/suryatejagorli
 
 ---
 
-## 📜 License
+## ©️ Copyright
 
-This project is licensed under the MIT License.
+© 2026 Surya Teja Gorli. All rights reserved.
+
+This project and its original source code are the intellectual property of Surya Teja Gorli. Unauthorized copying, modification, distribution, or reuse of the original project code is not permitted.
 
 ---
 
